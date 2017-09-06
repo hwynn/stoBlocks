@@ -1,0 +1,376 @@
+# STOCKHOLM 1.0
+
+#=GS     C0R0J9_BRAHW DE    (C0R0J9)
+#=GS A0A077DI38_9BURK DE    (A0A077DI38)
+#=GS     Q0P9B1_CAMJE DE    (Q0P9B1)
+#=GS     V8C6X7_9HELI DE    (V8C6X7)
+#=GS A0A099VSV0_9HELI DE    (A0A099VSV0)
+#=GS     B0UST9_HISS2 DE    (B0UST9)
+#=GS A0A099UBI6_9HELI DE    (A0A099UBI6)
+#=GS     C0DZ47_EIKCO DE    (C0DZ47)
+#=GS     C0R2J9_BRAHW DE    (C0R2J9)
+#=GS     C0QZN7_BRAHW DE    (C0QZN7)
+#=GS A0A099B6G1_9HELI DE    (A0A099B6G1)
+#=GS     D3UIK9_HELM1 DE    (D3UIK9)
+#=GS     O25005_HELPY DE    (O25005)
+#=GS A0A099VS95_9HELI DE    (A0A099VS95)
+#=GS     T1DW24_9HELI DE    (T1DW24)
+#=GS A0A099VR37_9HELI DE    (A0A099VR37)
+#=GS     R7AFV4_9BACE DE    (R7AFV4)
+#=GS     K6DS16_BACAZ DE    (K6DS16)
+#=GS     H1D4I4_9FUSO DE    (H1D4I4)
+#=GS     A2ES01_TRIVA DE    (A2ES01)
+#=GS     E7ABL1_HELFC DE    (E7ABL1)
+
+C0R0J9_BRAHW      --------------------------------------------------
+A0A077DI38_9BURK  --------------------------------------------------
+Q0P9B1_CAMJE      ---------------------------MT-LFYKI---------------
+V8C6X7_9HELI      --------------------------------------------------
+A0A099VSV0_9HELI  --------------------------------------------------
+B0UST9_HISS2      --------------------------------------------------
+A0A099UBI6_9HELI  --------------------------------------------------
+C0DZ47_EIKCO      --------------------------------------------------
+C0R2J9_BRAHW      --------------------------------------------------
+C0QZN7_BRAHW      --------------------------------------------------
+A0A099B6G1_9HELI  --------------------------------------------------
+D3UIK9_HELM1      ---------------------------MKKLLSQI---------------
+O25005_HELPY      MGLKNKIKGFIKERMPFVVRYVRSLKGAKNIYDEINHEI-KEMLEAKKLH
+A0A099VS95_9HELI  --------------------------------------------------
+T1DW24_9HELI      -----------------------MCVPS----KKMRRKIRRAMAQPKIIP
+A0A099VR37_9HELI  --------------------------------------------------
+R7AFV4_9BACE      --------------------------------------------------
+K6DS16_BACAZ      --------------------------------------------------
+H1D4I4_9FUSO      --------------------------------------------------
+A2ES01_TRIVA      --------------------------------------------------
+E7ABL1_HELFC      ---MANFKQHIKSRLKWARD--KLLSSVHNRLDRLEHTL-QNMSDP----
+
+C0R0J9_BRAHW      ----------------------------M---------------SYHCEC
+A0A077DI38_9BURK  --------------------------------------------------
+Q0P9B1_CAMJE      --IAFLRLLKIDKKLKFD-------NEYFLNL-NK---------------
+V8C6X7_9HELI      --------------------------------------------------
+A0A099VSV0_9HELI  --------------------------------------------------
+B0UST9_HISS2      --------------------------------------------------
+A0A099UBI6_9HELI  --------------------------------------------------
+C0DZ47_EIKCO      --------------------------------------------------
+C0R2J9_BRAHW      -------------------MISYLNKRYK---------------MNKCEC
+C0QZN7_BRAHW      ----------------------------M---------------YSVCQC
+A0A099B6G1_9HELI  --------------------------------------------------
+D3UIK9_HELM1      --KRCIKRNNTQQNLMLKDLDILTPKEVLKAIANH---------------
+O25005_HELPY      SLQEKALFNHDHQESVFLAIASLNNESFIE--RNKSIYKNSSLNYNYGGG
+A0A099VS95_9HELI  --------------------------------------------------
+T1DW24_9HELI      LV----EIDNVIPKDVLDKIESYDNAFYYK--HN----------------
+A0A099VR37_9HELI  ------------------------------------------------GG
+R7AFV4_9BACE      --------------------------------------------------
+K6DS16_BACAZ      --------------------------------------------------
+H1D4I4_9FUSO      --------------------------------------------------
+A2ES01_TRIVA      -MECFCSTHHSYSTLMFLL----SAYELFR---LITIW-TGFIKYDLTGP
+E7ABL1_HELFC      ---QFGKISHPQKFLVFKRIENLSNENFIV--ANKKI--------AAGGG
+
+C0R0J9_BRAHW      EQCK-------NKEFNPEDYIIKEEDFKILDEERPLGISGHLRVKDEAMS
+A0A077DI38_9BURK  -------------------------------MRQPVDAWAFMRVCDEMRT
+Q0P9B1_CAMJE      ------------KIYDEKHKGFFDFDPNSKDTKSPLNPWAFIRVKNEATT
+V8C6X7_9HELI      --------------------------------------------------
+A0A099VSV0_9HELI  --------------------------------------------------
+B0UST9_HISS2      -----------------------------------------MRLRNEGEF
+A0A099UBI6_9HELI  --KKK------GGGGANRHYGFFRFDSKANNPKSPLNPWGYIRVKNEART
+C0DZ47_EIKCO      --------------------------------------------------
+C0R2J9_BRAHW      SQCK-------NREYDISEYLVLEDDLKILDNERPLGISGHLRVKDEAMS
+C0QZN7_BRAHW      EECK-------SGKYNPLDYIIKDEDIKKLDEERPLGISGHLRVKNESMS
+A0A099B6G1_9HELI  -------------------------------------------MKNEIHT
+D3UIK9_HELM1      ------------SKQWGGVPPLYQLDPRAMDPKSPLNPWAFIRVKNEEAT
+O25005_HELPY      GHLEDRVIHPTLTLPNPTHSGYFDYDKKSQNPKSPLNPWAFIRVKNEIVT
+A0A099VS95_9HELI  --------------------------------------------------
+T1DW24_9HELI      ----------SEILVGGAHRGFFELDSKSKDTKSPLNPWAFVRVKNEAIT
+A0A099VR37_9HELI  GQDNL------KADSSVRHLGFFSFDKNSQNPKSPLNPWGFIRVKNEART
+R7AFV4_9BACE      ---------------------------MENRTDRKNGLSGLIRAKNEARF
+K6DS16_BACAZ      --------------------------------------------------
+H1D4I4_9FUSO      --------------------------------------------------
+A2ES01_TRIVA      NFWIK------KVEVCDKMDGYAPL--CYRGTQQSVDPWAFIRVKDEINT
+E7ABL1_HELFC      GES---------FSDKPTHHGYFEYDEKSKDPASPLNPWAFIRVRNEICT
+
+C0R0J9_BRAHW      LAECIDSCINALDELIITYNKS----TDNTEEILKEYKKKYPDKIRLYYY
+A0A077DI38_9BURK  LPACLNSILPVIKKGVIAYNPS---EDPEEEKFILDFCQKNTGFIPF-KY
+Q0P9B1_CAMJE      LRVSLESMLPAIQRGVIGYNDC----TDGSEEIILEFCKQYPSFIPV-KY
+V8C6X7_9HELI      ----MESILPAIQRGIIAYNDC----TDGSEEIILDFCAKYPTFIPA-KY
+A0A099VSV0_9HELI  --------------------------------------------------
+B0UST9_HISS2      LAQSIESWLPLLDELVIVYNNC----QDNTGEIAEQYAKLYPNKIKTFHY
+A0A099UBI6_9HELI  LRASLDSILPAIQRGVIGYNDC----DDGSEEIILEFCQTYPSFIPI-KY
+C0DZ47_EIKCO      ----MKSILPVVEGGVIGFNSC----TDGTKEYILAFCEKHPQFTSV-EY
+C0R2J9_BRAHW      LAECIDSCIDFLDELIITYNTS----SDNTEEILKNYEKKYPEKIKLFHY
+C0QZN7_BRAHW      IAQSIDSCIDALDELIITYNTS----EDNTEEILKEYQKKYPDKIRLYHY
+A0A099B6G1_9HELI  IKACLESILPAFQRGVIGYNDC----DDGSEEFILDFCRKYPSFIPI-KY
+D3UIK9_HELM1      LKASLESILPAIQRGVIGYNDC----TDSSEEIILDFCNQNPSFKAC-KY
+O25005_HELPY      LEESLFSMLPAIQRGVIGFNDC----DDGSKEVILEFCKKFPSFIPI-SY
+A0A099VS95_9HELI  ---------------------------DGSEEIILEFCEKFPSFIPV-KY
+T1DW24_9HELI      LKACLESILPAIQRGVIGYNDC----TDGSEEIILDFCAKYPSFIPY-KY
+A0A099VR37_9HELI  LRASLDSILPAIQRGVIGYNDC----DDGSEEIILEFCKDYPSFIPV-KY
+R7AFV4_9BACE      LGGCIDSCIDSLDELIVVYNDC----SDGTEEVLAEKVKQYPDKLKVYPF
+K6DS16_BACAZ      ---------------MVHFNGN------------------N-Q------L
+H1D4I4_9FUSO      ----MNSILPVIQKGVIGYNKLKEEEDDGTEDFILDFCKKNPGFIPF-QY
+A2ES01_TRIVA      IEASLNSLIPALKKGVIGYVNS---TDG-TNKVILNFCRQHPTFIPI-KY
+E7ABL1_HELFC      LEECLHSILPAIQRGVIGYNDC----DDGSAEVILDFCQKFPSFVPI-SY
+
+C0R0J9_BRAHW      EPNIIKYNKDE----------YN-TKYSKIHYLDNYYNFGYVKIK-YRYY
+A0A077DI38_9BURK  DYQIIPAGSREY---------LT--NTERERHLDTYYNAALDQIPNGEWM
+Q0P9B1_CAMJE      PHEVQI---E--------------NPQSEENKLHSYYNYVASFIPQDEWL
+V8C6X7_9HELI      PHHIEI---H--------------NPQREENKLHNYYNFALSHIPKKQWL
+A0A099VSV0_9HELI  --------------------------------------------------
+B0UST9_HISS2      LPVVYPQGSDNY---------KN-LEPDNPHSLINYYNFSLSQTT-KKWA
+A0A099UBI6_9HELI  PYSVEI---K--------------NPKKEENKLYYYSNYILSFIPQGEWF
+C0DZ47_EIKCO      PYDVIPGNDIRY---------KE-DCLDLNTRLDNYYNFVWGKLPKNKWI
+C0R2J9_BRAHW      KPNIIRYNKDE----------YN-TKYSQIHYLDNYYNYGLIKIK-YKYY
+C0QZN7_BRAHW      QPNIINYISTKEELEEFKSKNMS-YETNSIHSLANYYNFGYTKIK-YQYY
+A0A099B6G1_9HELI  PYSVTL---K--------------DPPTMQNKLYFYLTYIEKFIPEDEWI
+D3UIK9_HELM1      PHEVML---E--------------NPRKQENMLHNYYRFVLSFIPKEEWM
+O25005_HELPY      PYEVML---K--------------DCPSLWHQLYHYSNYTLSFIPKNEWV
+A0A099VS95_9HELI  PYHVDI---Y--------------NPEKEENKFYAYCNYVLSVIPKNQWL
+T1DW24_9HELI      PFEVQI---K--------------SPKSQENYLYEYYNFVLSKIPKGEWL
+A0A099VR37_9HELI  PYQVII---K--------------NPPKLENKFYNYCNFVLSFIPKGEWF
+R7AFV4_9BACE      NHKILSHNLSKEEFEYA----IS-LPEDSVRLHATQCNYALSKVS-YKYA
+K6DS16_BACAZ      PPVVIL----------------------LPMNMNISYSFVNSFGDKDHII
+H1D4I4_9FUSO      EHEVIPANDMRY---------QDISAIPVENRLDTYYNAVLSKLPKNIWM
+A2ES01_TRIVA      DYDVIPANDELY---------FQ--KYDANRALDSYYNYVYKFIPDNEWL
+E7ABL1_HELFC      PYKVAQLGRE--------------TPEHLHNTLYHYSNYVFSFIPRNQWV
+
+C0R0J9_BRAHW      MKIDADQVYFTKKLLDIREALLIDINDKRNID------TKILSFIKIDKI
+A0A077DI38_9BURK  IKIDADQIYDTEKLARLLSMVDE-R--------------QIVSIARMNLN
+Q0P9B1_CAMJE      IKIDVDHYYDAKKLYKSFYMASK-N--------------TAVRFPRINFL
+V8C6X7_9HELI      IKIDCDHIYDAKKLYKAFYLPKSRF--------------DSVIKPRFDIL
+A0A099VSV0_9HELI  ---------------------------------------------MNQKL
+B0UST9_HISS2      IKIDGDLILCAEKIPLLKQTYLD-LK--ENYP------NDVLPVSGINII
+A0A099UBI6_9HELI  IKLDMDHIYDAKKLFKSLYLLKKNT--------------DILTLSRMDFY
+C0DZ47_EIKCO      IKVDGDHIWHTTKTIELCKLPIRKK--------------DCVILNRINLH
+C0R2J9_BRAHW      VKIDADQIYFTDKLLKLRELLILDINQIK-LS------NNINKLLLINKI
+C0QZN7_BRAHW      MKIDADQIYFTEKLLETRKALLYNLYNIKEIPNIKEILKYINYISFMEKI
+A0A099B6G1_9HELI  LKIDCDHIHDAAKLYKSFYLIHDHQ--------------SCIFYGRIHIH
+D3UIK9_HELM1      IKIDVDHIYNPAMLFQTFYIPQNIT--------------HAVVYPRVNFV
+O25005_HELPY      IKIDGDHVYDAKKLYESFYIPKSIK--------------EVVMYSRINFV
+A0A099VS95_9HELI  VKIDVDHIYEASKLFKSFYLLQKPW--------------DMLIWNLIDIC
+T1DW24_9HELI      IKIDVDQIYDAKKLYKSFYIPKKDY--------------ELVSYSRLNVG
+A0A099VR37_9HELI  IKIDVDHIYDAKKLYKSFYLLKSPN--------------DMLALSRMDIF
+R7AFV4_9BACE      MKIDPDQVYFADEVKKWRDVCSMDKQMRWKV---------------SFIL
+K6DS16_BACAZ      LQINPVDFTKFAGI----------N--------------DLI-PLQIDMA
+H1D4I4_9FUSO      MKIDCDHVFDTEKLAQLPYLIKEDK--------------DMLSFTRMNLH
+A2ES01_TRIVA      IRIDADQIYDTEKLYMLTFLPDNDI--------------EAIPIFRINLH
+E7ABL1_HELFC      VKIDVDHIHDAKKLYKSFYTVRNTY--------------ETLAYSRVHFL
+
+C0R0J9_BRAHW      AWY--------IPIKKLRNTFRSYFI--KKIFNKDIIPEMF------AYE
+A0A077DI38_9BURK  VVEGKLHLY--------AQTPYVDPCDHWLLKKVSE--------------
+Q0P9B1_CAMJE      ILD-KIVIQNIG-----ECGF-IDGGDQLLIQKCN---------------
+V8C6X7_9HELI      IRERRVYIRKLKH-GLIQDDFLFRGVDDWLIYNNG---------------
+A0A099VSV0_9HELI  KRYLAKILCAFIPIKSWRTKLRQKIE--NRIFT---------ITLDKVDS
+B0UST9_HISS2      DHCGELYISYSSPYCGLYGDLCLFRVDEDSIFKKNKETEFLDISQRNIRK
+A0A099UBI6_9HELI  IQWEEVYIGK------SVRGYYNRAGDQTLRCN-LN--------------
+C0DZ47_EIKCO      CHDGKCYIHK--------ARPFAEGGDSWIIYN-RN--------------
+C0R2J9_BRAHW      AWC--------IPIKKLRNKFRTYCI--RKYFNKDKNYIYN------GDE
+C0QZN7_BRAHW      AWI--------IPLKSLREKFRFWYK--AKLYRNIITN------------
+A0A099B6G1_9HELI  KFDNELYIQK------YDNGFIIEGGDQLLIQRKHW--------------
+D3UIK9_HELM1      MQEGEIYVQNNG-----VHGF-IDGFDQLLVYNRG---------------
+O25005_HELPY      VQDFEVFVCNS-----GDFGFLDAWGDQWLFYNDC---------------
+A0A099VS95_9HELI  YTEQEILINK------NALV-SHEQGDHFVL---KN--------------
+T1DW24_9HELI      IENNKVYVENGS-----SSKYLLTPGDRWLIKNVY---------------
+A0A099VR37_9HELI  VKEAEIYLGL------NRCGVYHRAGDQIVRFHDDN--------------
+R7AFV4_9BACE      GWFFMMYISVYRLISAILKKPCLWMIPNWLIS--CF--------------
+K6DS16_BACAZ      FGDSQF-------------N-DAKNYAKWLVFNGK---------------
+H1D4I4_9FUSO      YENEQLFFINI-------Y--TIAAPDDWLLLKNTN--------------
+A2ES01_TRIVA      VDDGILMILKN------GYGPFSYVNDQWLLKKTNG--------------
+E7ABL1_HELFC      VKDGRVFVWHVNVAGEDDFGFVENCAGHFLLYNRD---------------
+
+C0R0J9_BRAHW      YLFSFKELIIYNRIRRI-NDFTLVLGGLNTIINNNALLLY----------
+A0A077DI38_9BURK  --LRFK--------------------------------------------
+Q0P9B1_CAMJE      --SVFI-----------------------E----------------RMVS
+V8C6X7_9HELI      --L-----------------------------------------------
+A0A099VSV0_9HELI  YLP------------------KHSVNSINAFSNEDFLVLNFANAQNLPIT
+B0UST9_HISS2      NIFAYYHLKF--------MKADFGIGNYELQ-------------------
+A0A099UBI6_9HELI  --CKYY----------------------ER----------------ILSP
+C0DZ47_EIKCO      --IHFE--------------------------------------------
+C0R2J9_BRAHW      NILSLDDFILLSRKRHSDKNISYDLAGFNLILHNNKLYLD----------
+C0QZN7_BRAHW      --LGTFELVILHKL-KNNNKCSFVLGGIESILYDDKISVVFRDLN-INKK
+A0A099B6G1_9HELI  --WHIEDLV----------------SDKGE----------------VVAM
+D3UIK9_HELM1      --VDFV-----------------------A----------------RKTS
+O25005_HELPY      ---EP---------------------------------------------
+A0A099VS95_9HELI  --FSFY----------------------FA----------------QV--
+T1DW24_9HELI      --L-----------------------------------------------
+A0A099VR37_9HELI  --FKYY----------------------EW----------------IVGT
+R7AFV4_9BACE      --KAFYGEYIKWRLQRG--TVAVSFSGVNLF-YDGVWSIPFDRY------
+K6DS16_BACAZ      --LGIYLDS----------------SSSN------------------V--
+H1D4I4_9FUSO      --LVFK--------------------------------------------
+A2ES01_TRIVA      --SGFT--------------------------------------------
+E7ABL1_HELFC      --CGF------------------------------------------VKH
+
+C0R0J9_BRAHW      -TDDFIFNGCVGDHNIWKPDSKYNY---VMDTSTNVEVI----NIMKLPI
+A0A077DI38_9BURK  ---MYITDADD----------SNFEA--YELLEFPQS-F--CKKYGLQIV
+Q0P9B1_CAMJE      KQSQWIDPEKTVK-----------------ELYSE--QQ--IIPKHIKIL
+V8C6X7_9HELI      DFVVWHPNENSKH-----------LF--FETL---------TCRNRRRNI
+A0A099VSV0_9HELI  QEDLRISNASKFSKPYF-VESNQAY----SLNSL--------------IN
+B0UST9_HISS2      ----------QNKHSVYLPKTISFL---FNLELIPLHKI----LSY--TQ
+A0A099UBI6_9HELI  KLQEWGDQILKGK-----PTKIQLEA--LQENYHSYEAK--VEDSYSRVY
+C0DZ47_EIKCO      ---FWRGWI-N----------DQFSA--YEVLHLPKK--------ERKRI
+C0R2J9_BRAHW      --TYWPMNGGRFDHVLYQASYSNKY---FMNEIFE--VN----QTPHNRI
+C0QZN7_BRAHW      RMDIKIFMGCVGDHTIWMPTSKEKY---YTINGSPSEGI----STNGFIS
+A0A099B6G1_9HELI  SKDKWKKSELDDF-----------LA--KEKMYKNQEFG--MIANMDFIY
+D3UIK9_HELM1      KKNQWINNTHTQD-----------------TLYSE--QQ--VTQKHLCFI
+O25005_HELPY      -FEIWQ------------------------HNDDIYEIL--KLKDKHHIK
+A0A099VS95_9HELI  -RESWNGI---------------------DDRIGYFE-T--PKPHTNHII
+T1DW24_9HELI      SFKEWIVNPEADP------KD---FC--YCEVLGS--TR--DGSMLRKHY
+A0A099VR37_9HELI  NITKWRQQVIEGK-----PTRDQLDA--MANGYDSYEAK--IDDSYHKVY
+R7AFV4_9BACE      --NVHPPYNGEGDTLLFRVADNTFFMRFYDKNKKPYAVVERLSHPYKIVI
+K6DS16_BACAZ      SETTILGNFLVNI-----PK---------QYMMDTKDGQILLNIDDKKLS
+H1D4I4_9FUSO      ---FSSGYKEN----------GSFFA--WEYLENET--E--DLFFQRKIY
+A2ES01_TRIVA      ---MHIDNNSR----------EA-----WELLY-PA---------PPTNT
+E7ABL1_HELFC      PEQNWIE-----------------------------EMC--YKRPVEFVG
+
+C0R0J9_BRAHW      DIGFCWIHFGFIKRKIDPMSN-L-------HI-DIVEVKDICWQDIKH--
+A0A077DI38_9BURK  HTQLITWHFPLLKRHRRSLSLPS---------VPLERYKEVL--DIEAN-
+Q0P9B1_CAMJE      QAELLQWHFPALKYHRNDYQK-------HLDALTLEDFKKIHYRHRKIK-
+V8C6X7_9HELI      CTELNNYHFPFVKNSRAGFGDDW-----IKGAFLLD---EICQSPLVGT-
+A0A099VSV0_9HELI  EGGG----------------------------------------------
+B0UST9_HISS2      MPNTTLSDFKLNRRRQYKLEA-M-------Q------YLEQSYQLFSLAL
+A0A099UBI6_9HELI  RSELCHYHFPGIKKRREGIP---------QNVLPLKEFN----DEAIGV-
+C0DZ47_EIKCO      LAPLTNWHFPHIKNQRSFNPTEWM----LMQDFDFQKYF--R-EHNMQD-
+C0R2J9_BRAHW      ILGMFWVHFGNIKHNFQYDDS-F-------YLLEYNDIKNSKVENFSH--
+C0QZN7_BRAHW      EIGLYWVHVGLIKRKKYIDDR-N-------LVVPLENINKINYNDIKK--
+A0A099B6G1_9HELI  YTEINNWHFPYIKDFRANKAS-------EQEWVKLDDFIESN-KDLINT-
+D3UIK9_HELM1      QAPLIQWHFPAVKARRNAFVK-------HLDLLSLEEFKQKNKKLLG-S-
+O25005_HELPY      DKELMQWHFPLAKKRRNAIVD--------NDLIPLKEFKKHH-ADLIGT-
+A0A099VS95_9HELI  CPEVNNWHFPYQKDIRKKVID-------KYTWIPLESWQ----SEEIGT-
+T1DW24_9HELI      ATELPCYHFAFIKDYRKITDFSH-----KEHRISLKEFKKLNPDGIIG--
+A0A099VR37_9HELI  RSEFCNHHFAWVKKHRNYIP---------KNRIALEDFQ----DEAIGT-
+R7AFV4_9BACE      ADAPLWFHLHANRIYCYEKVS-KIKKEHPDLFISPELFVNMSYREI----
+K6DS16_BACAZ      NNLFMKWKEILLDNNQ-------------------NDWKQIN--EILTN-
+H1D4I4_9FUSO      YTDLISWHFPFMKIGKCLERRYF---------TPFSDFEISP-KLKKKF-
+A2ES01_TRIVA      QTDIIAWHFPFLKHWRRLQDDSHHDSFDKVKRIPFGQNAKIL-ARLSHL-
+E7ABL1_HELFC      DPELMNWHFPYIKPRRASEAE-------KCKWVPLADFKEYH-KKLLGN-
+
+C0R0J9_BRAHW      IIESIHVDT---HEQKLSNNVYLRFGDKYFDIDKKYVT------------
+A0A077DI38_9BURK  ---HVTLEM---VDKD----YVISFLRKV-GFQEELS-------------
+Q0P9B1_CAMJE      ---KINYTM---LDEK----VIREILDKFKLSGKKMTLAIIPARAGSKGI
+V8C6X7_9HELI      ---RIDPKL---LNKD----KILAIYDSFDWSKANYKKP-----------
+A0A099VSV0_9HELI  --------------------------------------------------
+B0UST9_HISS2      LEKELHNSQLLVKHQKREQLLYRRTYNRF---------------------
+A0A099UBI6_9HELI  ---EIVPKM---LEKE----TILSLYSRFDLAR-----------------
+C0DZ47_EIKCO      ---RVADEM---LDEE----FILRSFNNFNLQGNQLLP------------
+C0R2J9_BRAHW      KMKNIDND------DKIEKYIRDNTFIKYFDEDKKYLN------------
+C0QZN7_BRAHW      F----HFDA---INENTSR-TISYWAKTFLDYDKKYIT------------
+A0A099B6G1_9HELI  ---RIDSKM---LDKD----YILSLYNRFA--------------------
+D3UIK9_HELM1      ---KIPDFM---LDSQ----IIHMLYSRFLI-------------------
+O25005_HELPY      ---KIEESM---LDEK----RILEMYQKFNLAER----------------
+A0A099VS95_9HELI  ---RIDSSM---LTSK----VLHTLVKEFE--------------------
+T1DW24_9HELI      ---TRDPAL---LNEE----EILKIYRGFNWSK-----------------
+A0A099VR37_9HELI  ---EIDPKL---LDKD----YILKLYSRFDLTK-----------------
+R7AFV4_9BACE      -----HNKMTFKVPT-----LYQR--------------------------
+K6DS16_BACAZ      ---NLD--------------------------------------------
+H1D4I4_9FUSO      ---HISEDM---LDET----RILEFCKNFKK-------------------
+A2ES01_TRIVA      ---HMDEDM---IDEN----RVKELLFRYRNVTENY--------------
+E7ABL1_HELFC      ---KIPYDM---VDEE----RILEIYSKFKTPH-----------------
+
+C0R0J9_BRAHW      ----------------------------KEFYDRYLKKPLEYAIKNQDNF
+A0A077DI38_9BURK  --------------------------------------------------
+Q0P9B1_CAMJE      KNKNLALLHDRPLLYYTINAAKNSKYVDKIVLSSDGDDILEYGQTQGVDV
+V8C6X7_9HELI      --------------------------------------------------
+A0A099VSV0_9HELI  --------------------------------------------------
+B0UST9_HISS2      ----------------------------KYFLRKLIKS------------
+A0A099UBI6_9HELI  --------------------------------------------------
+C0DZ47_EIKCO      --------------------------------------------------
+C0R2J9_BRAHW      ----------------------------NVFYNKYLTKPLDYAIKNNDEL
+C0QZN7_BRAHW      ----------------------------KYFIDKYFNDILEYALKNYK--
+A0A099B6G1_9HELI  --------------------------------------------------
+D3UIK9_HELM1      --------------------------------------------------
+O25005_HELPY      --------------------------------------------------
+A0A099VS95_9HELI  --------------------------------------------------
+T1DW24_9HELI      --------------------------------------------------
+A0A099VR37_9HELI  --------------------------------------------------
+R7AFV4_9BACE      ---------------------------------ILFALVHKMGLQSIKSH
+K6DS16_BACAZ      --------------------------------------------------
+H1D4I4_9FUSO      --------------------------------------------------
+A2ES01_TRIVA      --------------------------------------------------
+E7ABL1_HELFC      --------------------------------------------------
+
+C0R0J9_BRAHW      IKRLW---------------------------------------------
+A0A077DI38_9BURK  --------------------------------------------------
+Q0P9B1_CAMJE      LKRPKELALDDTTSDKVVLHTLSFYKDYENIVLLQPTSPLRTNVHIDEAF
+V8C6X7_9HELI      --------------------------------------------------
+A0A099VSV0_9HELI  --------------------------------------------------
+B0UST9_HISS2      --------------------------------------------------
+A0A099UBI6_9HELI  --------------------------------------------------
+C0DZ47_EIKCO      --------------------------------------------------
+C0R2J9_BRAHW      VNLYGKTIITVK--------------------------------------
+C0QZN7_BRAHW      --------------------------------------------------
+A0A099B6G1_9HELI  --------------------------------------------------
+D3UIK9_HELM1      --------------------------------------------------
+O25005_HELPY      --------------------------------------------------
+A0A099VS95_9HELI  --------------------------------------------------
+T1DW24_9HELI      --------------------------------------------------
+A0A099VR37_9HELI  --------------------------------------------------
+R7AFV4_9BACE      LPLLNKIKLEIK--------------------------------------
+K6DS16_BACAZ      --------------------------------------------------
+H1D4I4_9FUSO      --------------------------------------------------
+A2ES01_TRIVA      --------------------------------------------------
+E7ABL1_HELFC      --------------------------------------------------
+
+C0R0J9_BRAHW      --------------------------------------------------
+A0A077DI38_9BURK  --------------------------------------------------
+Q0P9B1_CAMJE      LKFKNENSNALISVVECDNKILKAFIDDNGNLKGICDNKYPFMPRQKLPK
+V8C6X7_9HELI      --------------------------------------------------
+A0A099VSV0_9HELI  --------------------------------------------------
+B0UST9_HISS2      --------------------------------------------------
+A0A099UBI6_9HELI  --------------------------------------------------
+C0DZ47_EIKCO      --------------------------------------------------
+C0R2J9_BRAHW      --------------------------------------------------
+C0QZN7_BRAHW      --------------------------------------------------
+A0A099B6G1_9HELI  --------------------------------------------------
+D3UIK9_HELM1      --------------------------------------------------
+O25005_HELPY      --------------------------------------------------
+A0A099VS95_9HELI  --------------------------------------------------
+T1DW24_9HELI      --------------------------------------------------
+A0A099VR37_9HELI  --------------------------------------------------
+R7AFV4_9BACE      --------------------------------------------------
+K6DS16_BACAZ      --------------------------------------------------
+H1D4I4_9FUSO      --------------------------------------------------
+A2ES01_TRIVA      --------------------------------------------------
+E7ABL1_HELFC      --------------------------------------------------
+
+C0R0J9_BRAHW      --------------------------------------------------
+A0A077DI38_9BURK  --------------------------------------------------
+Q0P9B1_CAMJE      TYMSNGAIYIVKSNLFLNNPTFLQEKTSCYIMDEKASLDIDTTEDLKRVN
+V8C6X7_9HELI      --------------------------------------------------
+A0A099VSV0_9HELI  --------------------------------------------------
+B0UST9_HISS2      --------------------------------------------------
+A0A099UBI6_9HELI  --------------------------------------------------
+C0DZ47_EIKCO      --------------------------------------------------
+C0R2J9_BRAHW      --------------------------------------------------
+C0QZN7_BRAHW      --------------------------------------------------
+A0A099B6G1_9HELI  --------------------------------------------------
+D3UIK9_HELM1      --------------------------------------------------
+O25005_HELPY      --------------------------------------------------
+A0A099VS95_9HELI  --------------------------------------------------
+T1DW24_9HELI      --------------------------------------------------
+A0A099VR37_9HELI  --------------------------------------------------
+R7AFV4_9BACE      --------------------------------------------------
+K6DS16_BACAZ      --------------------------------------------------
+H1D4I4_9FUSO      --------------------------------------------------
+A2ES01_TRIVA      --------------------------------------------------
+E7ABL1_HELFC      --------------------------------------------------
+
+C0R0J9_BRAHW      -----
+A0A077DI38_9BURK  -----
+Q0P9B1_CAMJE      NISFL
+V8C6X7_9HELI      -----
+A0A099VSV0_9HELI  -----
+B0UST9_HISS2      -----
+A0A099UBI6_9HELI  -----
+C0DZ47_EIKCO      -----
+C0R2J9_BRAHW      -----
+C0QZN7_BRAHW      -----
+A0A099B6G1_9HELI  -----
+D3UIK9_HELM1      -----
+O25005_HELPY      -----
+A0A099VS95_9HELI  -----
+T1DW24_9HELI      -----
+A0A099VR37_9HELI  -----
+R7AFV4_9BACE      -----
+K6DS16_BACAZ      -----
+H1D4I4_9FUSO      -----
+A2ES01_TRIVA      -----
+E7ABL1_HELFC      -----
+//

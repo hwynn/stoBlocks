@@ -1,0 +1,66 @@
+//input .sto file
+std::vector<std::string> extractAligned(std::string filename)
+	ifstream our_file;
+	our_file.open(filename);
+	std::vector<std::string> aligned;
+	if(the file is open and accessible)
+		std::string temp = "";
+		getline(our_file, temp);
+		while(temp[0]=='#' or temp == whitespace)
+			getline(our_file, temp)
+			break and exit if we hit end of file //debug point
+		//debug point. check if temp starts with alphanumeric characters. it should.
+		aligned.append(temp[18:]); //check if this accidentally includes characters before or after the cutoff point in the line.
+		getline(our_file, temp);
+		while(temp!=whitespace and temp[0]!='/')
+			aligned.append(temp[18:]);
+			getline(our_file, temp);
+		//debug point. all items in aligned should have same length
+		n=aligned.length();
+
+		while(temp[0]!='/') //maybe check to see if we hit end of file
+			for(i=0;i<(n-1); i=i+1)
+				getline(our_file, temp);
+				aligned[i] = aligned[i] + temp[18:]; //or possibly aligned[i].append(temp[18:]);
+			getline(our_file, temp);
+			//debug point. Temp should not contain alphanumeric characters at this poit. It should only contain whitespace or "//".
+		//debug point. all items in alignment should have same length
+	our_file.close();
+	return aligned;
+
+//returns score and maybe most frequent character(s)
+int getEntropy(std::vector<char> xList) 
+	return 4;
+
+//returns list of pairwise ints representing the location of low entropy blocks
+//pairwise values [a,b]; a is location of beginning of block. b is length of block.
+//blocks should not overlap(hopefully not. if they do, this is the next detail to work on). blocks should not go out of range.
+std::vector<std::vector<int>> findBlocks (vector<int> scores, float max)
+	return {{}};
+
+//return a list of the actuual common strings each of the blocks represents. 
+//This could be tough since any given spot could have more than 1 most common character causing low entropy
+std::vector<std::vector<std::string>> getBlocks(std::vector<std::vector<int>> places, std::vector<std::string> source)
+	return {{}};
+	
+
+int main ( int argc, char *argv[] )
+	if(argc > 1)
+		std::vector<std::string> aligned = extractAligned(argv[1]);
+	else
+		std::vector<std::string> aligned = extractAligned("PF06306_full_length_sequences.sto");
+	//debug point. check the length of alignment. It should not be 0.
+	int m = aligned[0].length();
+	int ent;
+	std::vector<char> charList;
+	std::vector<int> entropy;
+	for(i=0; i<m-1; i=i+1)
+		for(j=0; j<n-1; j=j+1)
+			charList.append(aligned[i][j]); //we could replace this and the previous line with a list comprehension of aligned[i][j] characters for all j.
+		entropy.append(getEntropy(charList);
+		charList = {}; //or charList.clear() or whatever function does that kinda thing.
+	//debug point. Entropy should be as long as aligned[0]
+	std::vector<std::vector<int>> motifSpots = findBlocks(entropy, 0.1);
+	std::vector<std::vector<std::string>> motifs = getBlocks(motifSpots, aligned);
+	//debug point. print motifs
+	return 0;//I suppose ideally we should return the actual motifs so some other script can call this one.
